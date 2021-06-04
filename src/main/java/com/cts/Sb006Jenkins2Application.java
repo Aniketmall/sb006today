@@ -14,7 +14,7 @@ public class Sb006Jenkins2Application {
 	}
 	@GetMapping
 	public String ss(){
-		return "Hello Aniket welcome to jenkins";
+		return " welcome to jenkins";
 	}
 
 }
