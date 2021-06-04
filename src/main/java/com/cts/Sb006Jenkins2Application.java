@@ -1,4 +1,4 @@
-package com.cts;
+cpackage com.cts;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -14,7 +14,7 @@ public class Sb006Jenkins2Application {
 	}
 	@GetMapping
 	public String ss(){
-		return "Hello springapp...";
+		return "Welcome to Jenkins...";
 	}
 
 }
